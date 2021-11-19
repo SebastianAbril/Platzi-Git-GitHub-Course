@@ -1,3 +1,10 @@
 Esta es la historia de Sebastian
 tiene 29 años y nació en Colombia
 Mañana nos enfocaremos en su vida laboral.
+
+Hoy 19/11/2021 voy a practicar:
+-git rm --cached
+-git rm --force
+-git reset --hard
+-git reset --soft
+-git reset--head
